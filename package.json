@@ -1,8 +1,8 @@
 {
-  "name": "beautiful-skill-tree",
+  "name": "my-beautiful-skill-tree",
   "version": "1.7.1",
-  "homepage": "https://github.com/andrico1234/beautiful-skill-tree",
-  "repository": "andrico1234/beautiful-skill-tree",
+  "homepage": "https://github.com/Sjazfrey/custombeautifulskilltree",
+  "repository": "Sjazfrey/custombeautifulskilltree",
   "main": "dist/index.js",
   "module": "dist/skill-tree-package.esm.js",
   "typings": "dist/index.d.ts",
