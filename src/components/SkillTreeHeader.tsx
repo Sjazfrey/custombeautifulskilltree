@@ -84,7 +84,7 @@ const StyledSkillTreeHeader = styled.div<CollapsibleContainerProps>`
     isCollapsible &&
     css`
       background: ${({ theme }) => theme.treeBackgroundColor};
-      border: ${({ theme }) => theme.border};
+      border: ${({ theme }) => theme.headerBorder};
       border-radius: ${({ theme }) => theme.borderRadius};
       cursor: pointer;
       min-width: 300px;

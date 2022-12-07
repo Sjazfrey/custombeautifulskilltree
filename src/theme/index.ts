@@ -1,6 +1,7 @@
 const defaultTheme = {
   backgroundColor: 'transparent',
   border: '2px solid white',
+  headerBorder: '2px solid white',
   borderRadius: '4px',
   primaryFont: `-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
   'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif`,
